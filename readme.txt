@@ -1,4 +1,3 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Creating a new branch is quick.
-Now is alright for sure.
+this is a log to note down important things.
+Day 3.6
+    Learning C++ class.
