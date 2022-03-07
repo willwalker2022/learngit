@@ -11,8 +11,8 @@ private:
 
 public:
     Player(const std::string &name, const char &symbol, int x, int y);
-    ~Player();              /*析构函数 noisy constructor*/
-    void update_location(); /*args are needed*/
+    ~Player();                      /*析构函数 noisy constructor*/
+    void update_location(int type); /*args are needed*/
     std::pair<int, int> get_location();
     /**/
 };
